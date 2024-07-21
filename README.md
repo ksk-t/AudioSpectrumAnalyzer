@@ -15,4 +15,4 @@ autoreconf .. -i
 make
 ```
 
-These steps are almost identical to that currently describes by the readme in the CppUTest repository. The only difference is the --host=arm flag used to indicate that we are cross compiling
+These steps are almost identical to that currently describes by the readme in the CppUTest repository. The only difference is the `--host=arm` flag used to indicate that we are cross compiling
